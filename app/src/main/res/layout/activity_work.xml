@@ -7,7 +7,7 @@
     android:background="#978e8e"
     android:orientation="vertical"
     android:id="@+id/mainLayout"
-    tools:context="com.example.ew8s.ew8zo.WorkActivity">
+    tools:context="com.ew8s.ew8zo.WorkActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

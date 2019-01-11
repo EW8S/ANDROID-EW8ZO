@@ -3,7 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.ew8s.ew8zo.ActivityError">
+    android:background="#978e8e"
+    tools:context="com.ew8s.ew8zo.ActivityError">
 
     <TextView
         android:id="@+id/textView"
@@ -11,7 +12,8 @@
         android:layout_height="match_parent"
 
         android:gravity="center"
-        android:text="W"
-        android:textSize="100dp"
+        android:text="73"
+        android:textSize="150dp"
+        android:textColor="@color/ColorError"
         android:textStyle="bold" />
 </LinearLayout>

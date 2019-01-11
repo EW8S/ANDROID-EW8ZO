@@ -1,4 +1,4 @@
-package com.example.ew8s.ew8zo;
+package com.ew8s.ew8zo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
